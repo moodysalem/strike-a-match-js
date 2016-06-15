@@ -1,0 +1,30 @@
+{
+  "name": "strike-a-match",
+  "version": "1.0.0",
+  "description": "string similarity scoring algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodysalem/strike-a-match-js.git"
+  },
+  "keywords": [
+    "string",
+    "similarity",
+    "scoring",
+    "algorithm",
+    "matching",
+    "match"
+  ],
+  "author": "Moody Salem <moody.salem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moodysalem/strike-a-match-js/issues"
+  },
+  "homepage": "https://github.com/moodysalem/strike-a-match-js#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
